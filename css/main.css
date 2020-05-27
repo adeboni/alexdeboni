@@ -16,6 +16,10 @@ table {
   width:100%;
 }
 
+.indent-list {
+  padding-left: 20px;
+}
+
 .my-picture {
     display: block;
     margin: 0 auto;
